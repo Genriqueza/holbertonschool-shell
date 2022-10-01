@@ -1,2 +1,2 @@
 #!/bin/Bash
-ls
+ls /home/holbertonschool-shell
